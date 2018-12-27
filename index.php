@@ -29,7 +29,7 @@
 	
 	<div class="container container-fluid">
 		<div class="background">
-			<img src="images/background.jpg">
+			<img src="images/background2.jpg">
 		</div>
 	</div>
 
